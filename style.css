@@ -1,0 +1,21 @@
+.landing {
+    display:flex;
+    justify-content: space-around;
+    height :100vh;
+}
+.distoration {
+    width: 620px;
+    height: 940px;
+text-align: center;    
+}
+.intro {
+    align-self: center;
+}
+.intro > h2 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.intro > p {
+     font-size :25px;
+}
